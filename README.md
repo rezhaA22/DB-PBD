@@ -4,4 +4,4 @@
 - ayu fatimah
 - satria reqi fidian
 **diagram DB**
- ![Diagram](./diagram.png)
+ ![Diagram](./digram.png)
