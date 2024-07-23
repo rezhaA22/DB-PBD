@@ -4,7 +4,7 @@
 - ayu fatimah
 - satria reqi fidian
 
-**[link vidio](https://example.com/pertama)**
+**[link vidio]([https://example.com/pertama](https://drive.google.com/file/d/1_08JyR1RnlPlDqzDdxJ9XblpoEIBI8pY/view?usp=drive_link))**
 
 # **diagram DB**
 
